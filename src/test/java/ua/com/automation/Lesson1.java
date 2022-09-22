@@ -6,17 +6,12 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-import java.util.List;
-import java.util.Set;
 
-    /**
-     * Unit test for simple App.
-     */
+
     public class Lesson1
     {
-        /**
-         * Rigorous Test :-)
-         */
+
+
         @Test
         public void shouldAnswerWithTrue() throws InterruptedException {
 
